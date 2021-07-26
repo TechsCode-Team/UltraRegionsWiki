@@ -1,6 +1,8 @@
 # Server installation
 Once you have downloaded the latest version of Ultra Regions put its .jar file inside the `plugins` directory of your server.
-***Note:*** *Make sure to stop the server before doing this.*
+<br>
+
+**``NOTE:`` Make sure to stop the server before doing this.**
 <br>
 
 When the .jar has been uploaded you can now start your server.
