@@ -12,6 +12,5 @@ You can communicate with our support team by joining our [Discord](https://disco
  - [Installation Guide](/wiki/installation) - A quick guide on how to install Ultra Regions
  - [Features](/wiki/features) - A list with all the features of Ultra Regions
  - [Flags](/wiki/flags) - A list with all the default Flags integrated within Ultra Regions
- - [Addons](/wiki/addons) - A with all the addons of Ultra Regions
  - [API](/wiki/api) - A guide on how to use the API for developers
 
