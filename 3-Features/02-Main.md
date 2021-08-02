@@ -1,15 +1,16 @@
 # Main features of Ultra Regions
 Here are all the default features from Ultra Regions
 
-* **``Interactivity``**
+* **`Interactivity`**
     Everything can be controlled in a GUI
-* **``Time & Weather``**
+* **`Time & Weather`**
     Easily control the weather and time seamlessly and even lock it if desired
-* **``Region Visualising``**
+* **`Region Visualising`**
     Regions will be visualised with Particles, so you can easily see them
-* **``Flags``**
+* **`Flags`**
     Quickly adjust flags for your regions through the GUI
-* **``Load/Unloading``**
+* **`Load/Unloading`**
     Load & Unloading of Worlds with just a single click
-* **``Updates``**
+* **`Updates`**
     Very frequent updates which can be installed with just a click
+    

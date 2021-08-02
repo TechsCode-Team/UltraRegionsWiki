@@ -7,4 +7,4 @@ Explanation here
 ```Code```-->
 
 # Our API isn't publicly available yet.
-If you are a plugin developer interested in our API, please join our [Discord](/discord) and contact **MATRIX | Timo K.#6707**
+If you are a plugin developer interested in our API, please join our **[Discord](https://discord.gg/techscode)** and contact **MATRIX | Timo K.#6707**
