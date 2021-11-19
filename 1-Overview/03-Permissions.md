@@ -10,3 +10,4 @@ Here is a list of all the permissions that can be used
 * `ultraregions.teleport.others`
 * `ultraregions.teleport.world.[world]`
 * `ultraregions.admin`
+* `ultraregions.flags.bypass`
