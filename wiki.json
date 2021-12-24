@@ -1,0 +1,237 @@
+{
+  "overview": {
+    "iconType": "fas",
+    "icon":"map",
+    "title":"Overview",
+    "subItems": {
+
+    }
+  },
+  "installation": {
+    "iconType": "fas",
+    "icon":"tasks",
+    "title":"Installation",
+    "subItems": {
+      "server": {
+        "title":"Server"
+      },
+      "proxy": {
+        "title":"Proxy"
+      },
+      "troubleshooting": {
+        "title":"Troubleshooting"
+      }
+    }
+  },
+  "features": {
+    "iconType": "fas",
+    "icon":"info",
+    "title":"Features",
+    "subItems": {
+
+    }
+  },
+  "flags": {
+    "iconType": "fas",
+    "icon":"flag",
+    "title":"Flags",
+    "subItems": {
+      "portals": {
+        "title":"Portals"
+      },
+      "creature-spawning": {
+        "title":"Creature Spawning"
+      },
+      "chorus-fruit": {
+        "title":"Chorus Fruit"
+      },
+      "fire-spread": {
+        "title":"Fire Spread"
+      },
+      "block-igniting": {
+        "title":"Block Igniting"
+      },
+      "fire-charge-create": {
+        "title":"Fire Charge Create"
+      },
+      "pve": {
+        "title":"PvE"
+      },
+      "crop-trampling": {
+        "title":"Crop Trampling"
+      },
+      "item-pickup": {
+        "title":"Item Pickup"
+      },
+      "potion-consume": {
+        "title":"Potion Consume"
+      },
+      "water-flow": {
+        "title":"Water Flow"
+      },
+      "chatting": {
+        "title":"Chatting"
+      },
+      "pvp": {
+        "title":"PvP"
+      },
+      "explosion-block-damage": {
+        "title":"Explosion Block Damage"
+      },
+      "food-change": {
+        "title":"food-change"
+      },
+      "item-merging": {
+        "title":"Item Merging"
+      },
+      "lava-flow": {
+        "title":"Lava Flow"
+      },
+      "block-breaking": {
+        "title":"Block Breaking"
+      },
+      "fire-charge-fire": {
+        "title":"Fire Charge Fire"
+      },
+      "block-placing": {
+        "title":"Block Placing"
+      },
+      "entry-deny": {
+        "title":"Entry Deny"
+      },
+      "hostile-mob-spawn": {
+        "title":"Hostile Mob Spawn"
+      },
+      "item-frame-interact": {
+        "title":"Item Frame Interact"
+      },
+      "block-burning": {
+        "title":"Block Burning"
+      },
+      "entry-exit": {
+        "title":"Entry Exit"
+      },
+      "potion-splash": {
+        "title":"Potion Splash"
+      },
+      "peaceful-mob-spawn": {
+        "title":"Peaceful Mob Spawn"
+      },
+      "block-interations": {
+        "title":"Block Interations"
+      },
+      "item-drop": {
+        "title":"Item Drop"
+      },
+      "crafting": {
+        "title":"Crafting"
+      },
+      "contact-damage": {
+        "title":"Contact Damage"
+      },
+      "entity-attack-damage": {
+        "title":"Entity Attack Damage"
+      },
+      "entity-sweep-attack-damage": {
+        "title":"Entity Sweep Attack Damage"
+      },
+      "projectile-damage": {
+        "title":"Projectile Damage"
+      },
+      "suffocation-damage": {
+        "title":"Suffocation Damage"
+      },
+      "fall-damage": {
+        "title":"Fall Damage"
+      },
+      "fire-damage": {
+        "title":"Fire Damage"
+      },
+      "fire-tick-damage": {
+        "title":"Fire Tick Damage"
+      },
+      "melting-damage": {
+        "title":"Melting Damage"
+      },
+      "lava-damage": {
+        "title":"Lava Damage"
+      },
+      "drowning-damage": {
+        "title":"Drowning Damage"
+      },
+      "block-exploding-damage": {
+        "title":"Block Exploding Damage"
+      },
+      "entity-explosion-damage": {
+        "title":"Entity Explosion Damage"
+      },
+      "void-damage": {
+        "title":"Void Damage"
+      },
+      "lightning-damage": {
+        "title":"Lightning Damage"
+      },
+      "suicide-damage": {
+        "title":"Suicide Damage"
+      },
+      "starvation-damage": {
+        "title":"Starvation Damage"
+      },
+      "potion-damage": {
+        "title":"Potion Damage"
+      },
+      "magic-damage": {
+        "title":"Magic Damage"
+      },
+      "wither-damage": {
+        "title":"Wither Damage"
+      },
+      "falling-block-damage": {
+        "title":"Falling Block Damage"
+      },
+      "thorns-damage": {
+        "title":"Thorns Damage"
+      },
+      "dragon-breath-damage": {
+        "title":"Dragon Breath Damage"
+      },
+      "custom-damage": {
+        "title":"Custom Damage"
+      },
+      "fly-into-wall-damage": {
+        "title":"Fly Into Wall Damage"
+      },
+      "hot-floor-damage": {
+        "title":"Hot Floor Damage"
+      },
+      "cramming-damage": {
+        "title":"Cramming Damage"
+      },
+      "dryout-damage": {
+        "title":"Dryout Damage"
+      },
+      "freeze-damage": {
+        "title":"Freeze Damage"
+      },
+      "insane-shops-shops-creation": {
+        "title":"Insane Shops - Shops Creation"
+      }
+    }
+  },
+  "faq": {
+    "iconType": "fas",
+    "icon":"question",
+    "title":"FAQ",
+    "subItems": {
+
+    }
+  },
+  "api": {
+    "iconType": "fas",
+    "icon":"code",
+    "title":"API",
+    "subItems": {
+
+    }
+  }
+}
