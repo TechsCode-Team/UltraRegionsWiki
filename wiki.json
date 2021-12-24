@@ -12,15 +12,7 @@
     "icon":"tasks",
     "title":"Installation",
     "subItems": {
-      "server": {
-        "title":"Server"
-      },
-      "proxy": {
-        "title":"Proxy"
-      },
-      "troubleshooting": {
-        "title":"Troubleshooting"
-      }
+      
     }
   },
   "features": {
@@ -117,8 +109,8 @@
       "peaceful-mob-spawn": {
         "title":"Peaceful Mob Spawn"
       },
-      "block-interations": {
-        "title":"Block Interations"
+      "block-interactions": {
+        "title":"Block Interactions"
       },
       "item-drop": {
         "title":"Item Drop"
@@ -159,8 +151,8 @@
       "drowning-damage": {
         "title":"Drowning Damage"
       },
-      "block-exploding-damage": {
-        "title":"Block Exploding Damage"
+      "block-explotion-damage": {
+        "title":"Block Explotion Damage"
       },
       "entity-explosion-damage": {
         "title":"Entity Explosion Damage"
