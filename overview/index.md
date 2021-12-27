@@ -7,14 +7,16 @@ You can communicate with our support team by joining our **[Discord](https://dis
 <br>
 
 ## What can you find on the wiki?
-- [Commands](/wiki/overview) - The list of commands
-- [Permissions](/wiki/overview) - The list of permisisons
+- [Commands](/wiki/overview#commands) - The list of commands
+- [Permissions](/wiki/overview#perms) - The list of permisisons
 - [Installation Guide](/wiki/installation) - A quick guide on how to install Ultra Regions
 - [Features](/wiki/features) - A list with all the features of Ultra Regions
 - [Flags](/wiki/flags) - A list with all the default Flags integrated within Ultra Regions
 - [API](/wiki/api) - A guide on how to use the API for developers
+<br>
+<br>
 
-# Commands
+# Commands {#commands}
 Here is a list of all the commands that can be used.
 <br>
 
@@ -27,8 +29,10 @@ Here is a list of all the commands that can be used.
 ## Symbols:
 - <> = Required
 - [] = Optional
+<br>
+<br>
 
-# Permissions
+# Permissions {#perms}
 Here is a list of all the permissions that can be used
 <br>
 
@@ -41,6 +45,8 @@ Here is a list of all the permissions that can be used
 * `ultraregions.teleport.world.[world]`
 * `ultraregions.admin`
 * `ultraregions.flags.bypass`
+<br>
+<br>
 
 # Placeholders
 Below is a list of all available placeholders. Keep in mind these placeholders require [*PlaceholderAPI*](https://www.spigotmc.org/resources/6245/) & a plugin that supports the API!

@@ -11,6 +11,7 @@ Ultra Regions is supported on all versions (release) from **1.8.8 to 1.18.X**. V
 
 # Download The Latest Build
 Download the latest build of Ultra Regions via the resource page [here](https://www.spigotmc.org/resources/ultra-regions.58317/).
+<br>
 
 # Server installation
 Once you have downloaded the latest version of Ultra Regions put its .jar file inside the `plugins` directory of your server.
