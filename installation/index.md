@@ -1,5 +1,5 @@
 # Server Requirements
-For Ultra Regions to run smoothly **SpigotMC, PaperMC** or **[a similar fork](https://github.com/SpiritenHasArrived/MC/blob/main/Server_Side/server_jars.md#bukkit--a-z)** will be required. To ensure you have the best performance possible, we recommend using **[PaperMC](https://papermc.io/downloads)**.
+Ultra Regions requires **[Spigot](https://getbukkit.org/download/spigot)**, **[PaperMC](https://papermc.io/downloads)**, or **[any other fork](https://github.com/SpiritenHasArrived/MC/blob/main/Server_Side/server_jars.md#bukkit--a-z)** of spigot to run smoothly. We recommend using **PaperMC** to ensure the best possible performance.
 <br>
 
 ## Server Version
