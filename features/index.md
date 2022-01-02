@@ -1,5 +1,5 @@
 # Overview
-Below you can find all the available features of Ultra Regions. If you want to request new features feel free to add them to our **[feedback website](https://feedback.techscode.com/t/ultra-regions)**
+Below you can find all the available features of Ultra Regions. If you want to request new features feel free to add them to our **[feedback repository](https://github.com/TechsCode-Team/Feedback/discussions/categories/suggestions)**
 <br>
 
 # Main features of Ultra Regions
