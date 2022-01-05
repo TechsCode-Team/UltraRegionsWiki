@@ -16,7 +16,11 @@
     "prev": { "url": "", "title": "" },
     "next": { "url": "", "title": "" },
     "subItems": {
-      
+      "server": {
+        "title":"Server",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      }
     }
   },
   "features": {
