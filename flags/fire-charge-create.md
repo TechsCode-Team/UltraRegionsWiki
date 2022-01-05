@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Fire Charge Create </h2>
+## Fire Charge Create 
 
 If disallowed, fire charges can't be spawned.

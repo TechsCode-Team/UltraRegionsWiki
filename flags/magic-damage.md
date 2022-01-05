@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Magic Damage </h2>
+## Magic Damage 
 
 If disabled, players can no longer take Magic Damage

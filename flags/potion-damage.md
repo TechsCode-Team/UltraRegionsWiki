@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Potion Damage </h2>
+## Potion Damage 
 
 If disabled, players can no longer take Potion Damage

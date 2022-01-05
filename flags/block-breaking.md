@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Block Breaking </h2>
+## Block Breaking 
 
 If disallowed, players will no longer be able to break blocks

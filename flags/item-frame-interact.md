@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Item Frame Interact </h2>
+## Item Frame Interact 
 
 If disallowed, interactions with item frames are no longer possible.

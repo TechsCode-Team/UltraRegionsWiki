@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Suicide Damage </h2>
+## Suicide Damage 
 
 If disabled, players can no longer take Suicide Damage

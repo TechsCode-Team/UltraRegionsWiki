@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Lava Damage </h2>
+## Lava Damage 
 
 If disabled, players can no longer take Lava Damage

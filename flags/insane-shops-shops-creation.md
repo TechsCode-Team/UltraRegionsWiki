@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Insane Shops - Shops Creation </h2>
+## Insane Shops - Shops Creation 
 
 If disabled, players can't create shops anymore.

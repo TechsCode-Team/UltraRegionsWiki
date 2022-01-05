@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> PvE </h2>
+## PvE 
 
 If disabled, players can no longer hit mobs

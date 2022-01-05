@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Wither Damage </h2>
+## Wither Damage 
 
 If disabled, players can no longer take Wither Damage

@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Entity Explosion Damage </h2>
+## Entity Explosion Damage 
 
 If disabled, players can no longer take Entity Explosion Damage

@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Block Burning </h2>
+## Block Burning 
 
 If disabled, blocks will no longer get removed from fire

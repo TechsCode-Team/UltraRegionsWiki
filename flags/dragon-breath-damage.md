@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Dragon Breath Damage </h2>
+## Dragon Breath Damage 
 
 If disabled, players can no longer take Dragon Breath Damage

@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Item Drop </h2>
+## Item Drop 
 
 If disabled, players can no longer drop items

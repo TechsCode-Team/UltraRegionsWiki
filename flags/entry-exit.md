@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Entry Exit </h2>
+## Entry Exit 
 
 If disallowed, stops players from leaving the region.

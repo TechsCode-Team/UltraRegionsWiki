@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Item Pickup </h2>
+## Item Pickup 
 
 If disabled, players can no longer pick-up items

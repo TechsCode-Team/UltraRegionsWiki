@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Block Exploding Damage </h2>
+## Block Exploding Damage 
 
 If disabled, players can no longer take Block Explosion Damage

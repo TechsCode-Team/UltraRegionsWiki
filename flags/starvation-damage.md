@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Starvation Damage </h2>
+## Starvation Damage 
 
 If disabled, players can no longer take Starvation Damage

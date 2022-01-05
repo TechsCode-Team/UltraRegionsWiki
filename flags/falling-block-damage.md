@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Falling Block Damage </h2>
+## Falling Block Damage 
 
 If disabled, players can no longer take Falling Block Damage

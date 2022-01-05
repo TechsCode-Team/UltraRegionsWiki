@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Projectile Damage </h2>
+## Projectile Damage 
 
 If disabled, players can no longer take Projectile Damage

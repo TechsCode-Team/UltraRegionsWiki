@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Drowning Damage </h2>
+## Drowning Damage 
 
 If disabled, players can no longer take Drowning Damage

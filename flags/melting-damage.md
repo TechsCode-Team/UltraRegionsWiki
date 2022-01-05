@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Melting Damage </h2>
+## Melting Damage 
 
 If disabled, players can no longer take Melting Damage

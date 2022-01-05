@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Water Flow </h2>
+## Water Flow 
 
 If disabled, water will stop flowing in that region

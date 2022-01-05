@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Crafting </h2>
+## Crafting 
 
 If disabled, players can no longer craft items

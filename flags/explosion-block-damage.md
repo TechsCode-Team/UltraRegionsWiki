@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Explosion Block Damage </h2>
+## Explosion Block Damage 
 
 If disabled, explosions will no longer break blocks

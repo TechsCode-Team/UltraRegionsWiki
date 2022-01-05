@@ -1,3 +1,3 @@
-<h2 style="text-align:center;"> Fall Damage </h2>
+## Fall Damage 
 
 If disabled, players can no longer take Fall Damage
