@@ -3,7 +3,11 @@ Below you can find all the available features of Ultra Regions. If you want to r
 <br>
 
 # Main features of Ultra Regions
-Here are all the default features from Ultra Regions
+<br>
+
+Here are all the features of Ultra Regions.
+<br>
+
 
 * **`Interactivity`**
   Everything can be controlled in a GUI
