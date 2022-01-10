@@ -342,6 +342,80 @@
       }
     }
   },
+  "addons": {
+    "iconType": "fas",
+    "icon":"plus-square",
+    "title":"Addons",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
+    "subItems": {
+      "commanddeny": {
+        "title":"Command Deny",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "containeraddon": {
+        "title":"Container",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "croptrample": {
+        "title":"Crop Trample",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "death": {
+        "title":"Death",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "denysleep": {
+        "title":"Deny Sleep",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "enterandleaveflags": {
+        "title":"Enter and Leave",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "entryandexitflags": {
+        "title":"Entry and Exit",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "extrablockflags": {
+        "title":"Extra Block",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "flyflag": {
+        "title":"Fly",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "keepinventory": {
+        "title":"Keep Inventory",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "mcmmoflags": {
+        "title":"MMO",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "aureliumskillsflags": {
+        "title":"Aurelium Skills",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "ecoskillsflags": {
+        "title":"EcoSkills",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      }
+    }
+  },
   "faq": {
     "iconType": "fas",
     "icon":"question",
