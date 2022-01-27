@@ -77,6 +77,82 @@ public void ClassName(EventToListenFor e) {
 ```
 <br>
 
+## Example Flag Code
+The "Crafting Table" flag from Extra Blocks Flags.
+```java
+import org.bukkit.Material;
+import org.bukkit.block.Block;
+import org.bukkit.entity.Player;
+import org.bukkit.event.EventHandler;
+import org.bukkit.event.block.Action;
+import org.bukkit.event.player.PlayerInteractEvent;
+
+import me.TechsCode.UltraRegions.UltraRegions;
+import me.TechsCode.UltraRegions.base.item.XMaterial;
+import me.TechsCode.UltraRegions.flags.Flag;
+import me.TechsCode.UltraRegions.flags.FlagTypes;
+import me.TechsCode.UltraRegions.flags.calculator.Result;
+import me.TechsCode.UltraRegions.storage.FlagValue;
+import me.TechsCode.UltraRegions.storage.ManagedWorld;
+
+import java.util.Optional;
+
+public class CraftingTable extends Flag {
+
+    public CraftingTable(UltraRegions plugin) {
+        super(plugin, "Crafting Table");
+    }
+
+    @Override
+    public String getName() {
+        return "Crafting Table";
+    }
+
+    @Override
+    public String getDescription() {
+        return "Toggles players ability to use crafting tables";
+    }
+
+    @Override
+    public XMaterial getIcon() {
+        return XMaterial.CRAFTING_TABLE;
+    }
+
+    @Override
+    public FlagValue getDefaultValue() {
+        return FlagValue.ALLOW;
+    }
+
+    @Override
+    public boolean isPlayerSpecificFlag() {
+        return true;
+    }
+
+    @EventHandler
+    public void onCraftingTableUse(PlayerInteractEvent evt) {
+        Action action = evt.getAction();
+        if (action != Action.RIGHT_CLICK_BLOCK) {
+            return;
+        }
+        Player player = evt.getPlayer();
+        Optional<ManagedWorld> optional = this.plugin.getWorlds().find(player.getWorld());
+        if (!optional.isPresent()) {
+            return;
+        }
+        Block interacted = evt.getClickedBlock();
+        if (!interacted.getType().equals(Material.CRAFTING_TABLE)) {
+            return;
+        }
+        Result result = calculate(interacted, player);
+        if (result != null && result.isSetToDisallowed()) {
+            evt.setCancelled(true);
+            this.sendMessage(player, result.getRegion());
+        }
+    }
+}
+```
+<br>
+
 ## addon.yml File
 You need an addon.yml in order to convey 3 important peices of info about the plugin; who made it, what version the addon is, and its name.
 
