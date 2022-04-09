@@ -4,4 +4,4 @@ Stop players from executing commands in a region unless they have a certain perm
 <br>
 
 ### Flags
-* **Command Deny**, *If disallowed, stops players from using commands in this region.*
+* **Command Deny** - *If disallowed, stops players from using commands in this region.*
