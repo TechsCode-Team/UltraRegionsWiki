@@ -1,5 +1,7 @@
 ## Keep Inventory
-**By: EazyFTW**<br>
+**By: EazyFTW**
+<br>
+
 If a player dies in a region they won't lose their inventory.
 <br>
 

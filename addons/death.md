@@ -1,5 +1,7 @@
 ## Death
-**By: EazyFTW**<br>
+**By: EazyFTW**
+<br>
+
 Stops players from dying if disallowed.
 <br>
 

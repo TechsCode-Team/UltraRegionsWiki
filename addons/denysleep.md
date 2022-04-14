@@ -1,5 +1,7 @@
 ## Deny Sleep
-**By: Greazi**<br>
+**By: Greazi**
+<br>
+
 Allows you to deny sleep when you have added the flag.
 <br>
 

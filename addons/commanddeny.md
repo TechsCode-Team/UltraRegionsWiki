@@ -1,5 +1,7 @@
 ## Command Deny
-**By: EazyFTW**<br>
+**By: EazyFTW**
+<br>
+
 Stop players from executing commands in a region unless they have a certain permission.
 <br>
 

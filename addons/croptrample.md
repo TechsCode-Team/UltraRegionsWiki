@@ -1,5 +1,7 @@
 ## Crop Trample
-**By: EazyFTW**<br>
+**By: EazyFTW**
+<br>
+
 Stops players from trampling crops if disallowed.
 <br>
 
