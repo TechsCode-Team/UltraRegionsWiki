@@ -9,4 +9,4 @@ Here are all the frequently asked questions from Ultra Regions.
 <br>
 
 * **`How can i make suggestions?`**
-  You can make suggestions at our [feedback repository](https://github.com/TechsCode-Team/Feedback/discussions/categories/suggestions)
+  You can make suggestions at our [Discord Server](https://discord.gg/3JuHDm8s)
