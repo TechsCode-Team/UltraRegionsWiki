@@ -1,458 +1,962 @@
 {
   "overview": {
     "iconType": "fa-solid",
-    "icon":"map",
-    "title":"Overview",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
+    "icon": "map",
+    "title": "Overview",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
     "subItems": {
-    "commands": {
-      "title":"Commands",
-      "prev": { "url": "", "title": "" },
-      "next": { "url": "", "title": "" }
-    },
-    "permissions": {
-      "title":"Permissions",
-      "prev": { "url": "", "title": "" },
-      "next": { "url": "", "title": "" }
-    },
-    "placeholders": {
-      "title":"Placeholders",
-      "prev": { "url": "", "title": "" },
-      "next": { "url": "", "title": "" }
+      "commands": {
+        "title": "Commands",
+        "prev": {
+          "url": "",
+          "title": ""
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/overview/permissions",
+          "title": "Permissions"
+        }
+      },
+      "permissions": {
+        "title": "Permissions",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/overview/commands",
+          "title": "Commands"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/overview/placeholders",
+          "title": "Placeholders"
+        }
+      },
+      "placeholders": {
+        "title": "Placeholders",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/overview/permissions",
+          "title": "Permissions"
+        },
+        "next": {
+          "url": "",
+          "title": ""
+        }
+      }
     }
-  }
-},
+  },
   "installation": {
     "iconType": "fa-solid",
-    "icon":"tasks",
-    "title":"Installation",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
+    "icon": "tasks",
+    "title": "Installation",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
     "subItems": {
       "server": {
-        "title":"Server",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Server",
+        "prev": {
+          "url": "",
+          "title": ""
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/installation/language",
+          "title": "Language"
+        }
       },
       "language": {
-        "title":"Language",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Language",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/installation/server",
+          "title": "Server"
+        },
+        "next": {
+          "url": "",
+          "title": ""
+        }
       }
     }
   },
   "features": {
     "iconType": "fa-solid",
-    "icon":"info",
-    "title":"Features",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
-    "subItems": {
-
-    }
+    "icon": "info",
+    "title": "Features",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
+    "subItems": {}
   },
   "flags": {
     "iconType": "fa-solid",
-    "icon":"flag",
-    "title":"Flags",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
+    "icon": "flag",
+    "title": "Flags",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
     "subItems": {
       "portals": {
-        "title":"Portals",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Portals",
+        "prev": {
+          "url": "",
+          "title": ""
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/creature-spawning",
+          "title": "Creature Spawning"
+        }
       },
       "creature-spawning": {
-        "title":"Creature Spawning",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Creature Spawning",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/portals",
+          "title": "Portals"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/chorus-fruit",
+          "title": "Chorus Fruit"
+        }
       },
       "chorus-fruit": {
-        "title":"Chorus Fruit",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Chorus Fruit",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/creature-spawning",
+          "title": "Creature Spawning"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/fire-spread",
+          "title": "Fire Spread"
+        }
       },
       "fire-spread": {
-        "title":"Fire Spread",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Fire Spread",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/chorus-fruit",
+          "title": "Chorus Fruit"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/block-igniting",
+          "title": "Block Igniting"
+        }
       },
       "block-igniting": {
-        "title":"Block Igniting",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Block Igniting",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/fire-spread",
+          "title": "Fire Spread"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/fire-charge-create",
+          "title": "Fire Charge Create"
+        }
       },
       "fire-charge-create": {
-        "title":"Fire Charge Create",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Fire Charge Create",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/block-igniting",
+          "title": "Block Igniting"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/pve",
+          "title": "PvE"
+        }
       },
       "pve": {
-        "title":"PvE",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "PvE",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/fire-charge-create",
+          "title": "Fire Charge Create"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/crop-trampling",
+          "title": "Crop Trampling"
+        }
       },
       "crop-trampling": {
-        "title":"Crop Trampling",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Crop Trampling",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/pve",
+          "title": "PvE"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/item-pickup",
+          "title": "Item Pickup"
+        }
       },
       "item-pickup": {
-        "title":"Item Pickup",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Item Pickup",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/crop-trampling",
+          "title": "Crop Trampling"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/potion-consume",
+          "title": "Potion Consume"
+        }
       },
       "potion-consume": {
-        "title":"Potion Consume",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Potion Consume",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/item-pickup",
+          "title": "Item Pickup"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/water-flow",
+          "title": "Water Flow"
+        }
       },
       "water-flow": {
-        "title":"Water Flow",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Water Flow",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/potion-consume",
+          "title": "Potion Consume"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/chatting",
+          "title": "Chatting"
+        }
       },
       "chatting": {
-        "title":"Chatting",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Chatting",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/water-flow",
+          "title": "Water Flow"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/pvp",
+          "title": "PvP"
+        }
       },
       "pvp": {
-        "title":"PvP",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "PvP",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/chatting",
+          "title": "Chatting"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/explosion-block-damage",
+          "title": "Explosion Block Damage"
+        }
       },
       "explosion-block-damage": {
-        "title":"Explosion Block Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Explosion Block Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/pvp",
+          "title": "PvP"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/food-change",
+          "title": "food-change"
+        }
       },
       "food-change": {
-        "title":"food-change",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "food-change",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/explosion-block-damage",
+          "title": "Explosion Block Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/item-merging",
+          "title": "Item Merging"
+        }
       },
       "item-merging": {
-        "title":"Item Merging",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Item Merging",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/food-change",
+          "title": "food-change"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/lava-flow",
+          "title": "Lava Flow"
+        }
       },
       "lava-flow": {
-        "title":"Lava Flow",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Lava Flow",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/item-merging",
+          "title": "Item Merging"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/block-breaking",
+          "title": "Block Breaking"
+        }
       },
       "block-breaking": {
-        "title":"Block Breaking",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Block Breaking",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/lava-flow",
+          "title": "Lava Flow"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/fire-charge-fire",
+          "title": "Fire Charge Fire"
+        }
       },
       "fire-charge-fire": {
-        "title":"Fire Charge Fire",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Fire Charge Fire",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/block-breaking",
+          "title": "Block Breaking"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/block-placing",
+          "title": "Block Placing"
+        }
       },
       "block-placing": {
-        "title":"Block Placing",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Block Placing",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/fire-charge-fire",
+          "title": "Fire Charge Fire"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/entry-deny",
+          "title": "Entry Deny"
+        }
       },
       "entry-deny": {
-        "title":"Entry Deny",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Entry Deny",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/block-placing",
+          "title": "Block Placing"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/hostile-mob-spawn",
+          "title": "Hostile Mob Spawn"
+        }
       },
       "hostile-mob-spawn": {
-        "title":"Hostile Mob Spawn",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Hostile Mob Spawn",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/entry-deny",
+          "title": "Entry Deny"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/item-frame-interact",
+          "title": "Item Frame Interact"
+        }
       },
       "item-frame-interact": {
-        "title":"Item Frame Interact",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Item Frame Interact",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/hostile-mob-spawn",
+          "title": "Hostile Mob Spawn"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/block-burning",
+          "title": "Block Burning"
+        }
       },
       "block-burning": {
-        "title":"Block Burning",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Block Burning",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/item-frame-interact",
+          "title": "Item Frame Interact"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/entry-exit",
+          "title": "Entry Exit"
+        }
       },
       "entry-exit": {
-        "title":"Entry Exit",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Entry Exit",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/block-burning",
+          "title": "Block Burning"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/potion-splash",
+          "title": "Potion Splash"
+        }
       },
       "potion-splash": {
-        "title":"Potion Splash",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Potion Splash",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/entry-exit",
+          "title": "Entry Exit"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/peaceful-mob-spawn",
+          "title": "Peaceful Mob Spawn"
+        }
       },
       "peaceful-mob-spawn": {
-        "title":"Peaceful Mob Spawn",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Peaceful Mob Spawn",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/potion-splash",
+          "title": "Potion Splash"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/block-interactions",
+          "title": "Block Interactions"
+        }
       },
       "block-interactions": {
-        "title":"Block Interactions",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Block Interactions",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/peaceful-mob-spawn",
+          "title": "Peaceful Mob Spawn"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/item-drop",
+          "title": "Item Drop"
+        }
       },
       "item-drop": {
-        "title":"Item Drop",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Item Drop",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/block-interactions",
+          "title": "Block Interactions"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/crafting",
+          "title": "Crafting"
+        }
       },
       "crafting": {
-        "title":"Crafting",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Crafting",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/item-drop",
+          "title": "Item Drop"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/contact-damage",
+          "title": "Contact Damage"
+        }
       },
       "contact-damage": {
-        "title":"Contact Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Contact Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/crafting",
+          "title": "Crafting"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/entity-attack-damage",
+          "title": "Entity Attack Damage"
+        }
       },
       "entity-attack-damage": {
-        "title":"Entity Attack Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Entity Attack Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/contact-damage",
+          "title": "Contact Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/entity-sweep-attack-damage",
+          "title": "Entity Sweep Attack Damage"
+        }
       },
       "entity-sweep-attack-damage": {
-        "title":"Entity Sweep Attack Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Entity Sweep Attack Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/entity-attack-damage",
+          "title": "Entity Attack Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/projectile-damage",
+          "title": "Projectile Damage"
+        }
       },
       "projectile-damage": {
-        "title":"Projectile Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Projectile Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/entity-sweep-attack-damage",
+          "title": "Entity Sweep Attack Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/suffocation-damage",
+          "title": "Suffocation Damage"
+        }
       },
       "suffocation-damage": {
-        "title":"Suffocation Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Suffocation Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/projectile-damage",
+          "title": "Projectile Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/fall-damage",
+          "title": "Fall Damage"
+        }
       },
       "fall-damage": {
-        "title":"Fall Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Fall Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/suffocation-damage",
+          "title": "Suffocation Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/fire-damage",
+          "title": "Fire Damage"
+        }
       },
       "fire-damage": {
-        "title":"Fire Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Fire Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/fall-damage",
+          "title": "Fall Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/fire-tick-damage",
+          "title": "Fire Tick Damage"
+        }
       },
       "fire-tick-damage": {
-        "title":"Fire Tick Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Fire Tick Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/fire-damage",
+          "title": "Fire Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/melting-damage",
+          "title": "Melting Damage"
+        }
       },
       "melting-damage": {
-        "title":"Melting Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Melting Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/fire-tick-damage",
+          "title": "Fire Tick Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/lava-damage",
+          "title": "Lava Damage"
+        }
       },
       "lava-damage": {
-        "title":"Lava Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Lava Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/melting-damage",
+          "title": "Melting Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/drowning-damage",
+          "title": "Drowning Damage"
+        }
       },
       "drowning-damage": {
-        "title":"Drowning Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Drowning Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/lava-damage",
+          "title": "Lava Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/block-explotion-damage",
+          "title": "Block Explotion Damage"
+        }
       },
       "block-explotion-damage": {
-        "title":"Block Explotion Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Block Explotion Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/drowning-damage",
+          "title": "Drowning Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/entity-explosion-damage",
+          "title": "Entity Explosion Damage"
+        }
       },
       "entity-explosion-damage": {
-        "title":"Entity Explosion Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Entity Explosion Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/block-explotion-damage",
+          "title": "Block Explotion Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/void-damage",
+          "title": "Void Damage"
+        }
       },
       "void-damage": {
-        "title":"Void Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Void Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/entity-explosion-damage",
+          "title": "Entity Explosion Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/lightning-damage",
+          "title": "Lightning Damage"
+        }
       },
       "lightning-damage": {
-        "title":"Lightning Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Lightning Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/void-damage",
+          "title": "Void Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/suicide-damage",
+          "title": "Suicide Damage"
+        }
       },
       "suicide-damage": {
-        "title":"Suicide Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Suicide Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/lightning-damage",
+          "title": "Lightning Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/starvation-damage",
+          "title": "Starvation Damage"
+        }
       },
       "starvation-damage": {
-        "title":"Starvation Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Starvation Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/suicide-damage",
+          "title": "Suicide Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/potion-damage",
+          "title": "Potion Damage"
+        }
       },
       "potion-damage": {
-        "title":"Potion Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Potion Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/starvation-damage",
+          "title": "Starvation Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/magic-damage",
+          "title": "Magic Damage"
+        }
       },
       "magic-damage": {
-        "title":"Magic Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Magic Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/potion-damage",
+          "title": "Potion Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/wither-damage",
+          "title": "Wither Damage"
+        }
       },
       "wither-damage": {
-        "title":"Wither Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Wither Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/magic-damage",
+          "title": "Magic Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/falling-block-damage",
+          "title": "Falling Block Damage"
+        }
       },
       "falling-block-damage": {
-        "title":"Falling Block Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Falling Block Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/wither-damage",
+          "title": "Wither Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/thorns-damage",
+          "title": "Thorns Damage"
+        }
       },
       "thorns-damage": {
-        "title":"Thorns Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Thorns Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/falling-block-damage",
+          "title": "Falling Block Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/dragon-breath-damage",
+          "title": "Dragon Breath Damage"
+        }
       },
       "dragon-breath-damage": {
-        "title":"Dragon Breath Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Dragon Breath Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/thorns-damage",
+          "title": "Thorns Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/custom-damage",
+          "title": "Custom Damage"
+        }
       },
       "custom-damage": {
-        "title":"Custom Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Custom Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/dragon-breath-damage",
+          "title": "Dragon Breath Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/fly-into-wall-damage",
+          "title": "Fly Into Wall Damage"
+        }
       },
       "fly-into-wall-damage": {
-        "title":"Fly Into Wall Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Fly Into Wall Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/custom-damage",
+          "title": "Custom Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/hot-floor-damage",
+          "title": "Hot Floor Damage"
+        }
       },
       "hot-floor-damage": {
-        "title":"Hot Floor Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Hot Floor Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/fly-into-wall-damage",
+          "title": "Fly Into Wall Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/cramming-damage",
+          "title": "Cramming Damage"
+        }
       },
       "cramming-damage": {
-        "title":"Cramming Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Cramming Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/hot-floor-damage",
+          "title": "Hot Floor Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/dryout-damage",
+          "title": "Dryout Damage"
+        }
       },
       "dryout-damage": {
-        "title":"Dryout Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Dryout Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/cramming-damage",
+          "title": "Cramming Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/freeze-damage",
+          "title": "Freeze Damage"
+        }
       },
       "freeze-damage": {
-        "title":"Freeze Damage",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Freeze Damage",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/dryout-damage",
+          "title": "Dryout Damage"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/flags/insane-shops-shops-creation",
+          "title": "Insane Shops - Shops Creation"
+        }
       },
       "insane-shops-shops-creation": {
-        "title":"Insane Shops - Shops Creation",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Insane Shops - Shops Creation",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/flags/freeze-damage",
+          "title": "Freeze Damage"
+        },
+        "next": {
+          "url": "",
+          "title": ""
+        }
       }
     }
   },
   "addons": {
     "iconType": "fa-solid",
-    "icon":"plus-square",
-    "title":"Addons",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
+    "icon": "plus-square",
+    "title": "Addons",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
     "subItems": {
       "commanddeny": {
-        "title":"Command Deny",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Command Deny",
+        "prev": {
+          "url": "",
+          "title": ""
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/addons/containeraddon",
+          "title": "Container"
+        }
       },
       "containeraddon": {
-        "title":"Container",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Container",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/addons/commanddeny",
+          "title": "Command Deny"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/addons/croptrample",
+          "title": "Crop Trample"
+        }
       },
       "croptrample": {
-        "title":"Crop Trample",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Crop Trample",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/addons/containeraddon",
+          "title": "Container"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/addons/death",
+          "title": "Death"
+        }
       },
       "death": {
-        "title":"Death",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Death",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/addons/croptrample",
+          "title": "Crop Trample"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/addons/denysleep",
+          "title": "Deny Sleep"
+        }
       },
       "denysleep": {
-        "title":"Deny Sleep",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Deny Sleep",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/addons/death",
+          "title": "Death"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/addons/enterandleaveflags",
+          "title": "Enter and Leave"
+        }
       },
       "enterandleaveflags": {
-        "title":"Enter and Leave",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Enter and Leave",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/addons/denysleep",
+          "title": "Deny Sleep"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/addons/entryandexitflags",
+          "title": "Entry and Exit"
+        }
       },
       "entryandexitflags": {
-        "title":"Entry and Exit",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Entry and Exit",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/addons/enterandleaveflags",
+          "title": "Enter and Leave"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/addons/extrablockflags",
+          "title": "Extra Block"
+        }
       },
       "extrablockflags": {
-        "title":"Extra Block",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Extra Block",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/addons/entryandexitflags",
+          "title": "Entry and Exit"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/addons/flyflag",
+          "title": "Fly"
+        }
       },
       "flyflag": {
-        "title":"Fly",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Fly",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/addons/extrablockflags",
+          "title": "Extra Block"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/addons/keepinventory",
+          "title": "Keep Inventory"
+        }
       },
       "keepinventory": {
-        "title":"Keep Inventory",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Keep Inventory",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/addons/flyflag",
+          "title": "Fly"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/addons/mcmmoflags",
+          "title": "McMMO"
+        }
       },
       "mcmmoflags": {
-        "title":"McMMO",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "McMMO",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/addons/keepinventory",
+          "title": "Keep Inventory"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/addons/aureliumskillsflags",
+          "title": "Aurelium Skills"
+        }
       },
       "aureliumskillsflags": {
-        "title":"Aurelium Skills",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "Aurelium Skills",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/addons/mcmmoflags",
+          "title": "McMMO"
+        },
+        "next": {
+          "url": "https://ultraregions.com/wiki/addons/ecoskillsflags",
+          "title": "EcoSkills"
+        }
       },
       "ecoskillsflags": {
-        "title":"EcoSkills",
-        "prev": { "url": "", "title": "" },
-        "next": { "url": "", "title": "" }
+        "title": "EcoSkills",
+        "prev": {
+          "url": "https://ultraregions.com/wiki/addons/aureliumskillsflags",
+          "title": "Aurelium Skills"
+        },
+        "next": {
+          "url": "",
+          "title": ""
+        }
       }
     }
   },
   "faq": {
     "iconType": "fa-solid",
-    "icon":"question",
-    "title":"FAQ",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
-    "subItems": {
-
-    }
+    "icon": "question",
+    "title": "FAQ",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
+    "subItems": {}
   },
   "api": {
     "iconType": "fa-solid",
-    "icon":"code",
-    "title":"API",
-    "prev": { "url": "", "title": "" },
-    "next": { "url": "", "title": "" },
-    "subItems": {
-
-    }
+    "icon": "code",
+    "title": "API",
+    "prev": {
+      "url": "",
+      "title": ""
+    },
+    "next": {
+      "url": "",
+      "title": ""
+    },
+    "subItems": {}
   }
 }
