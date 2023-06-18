@@ -9,12 +9,12 @@ Here are all the frequently asked questions from Ultra Regions.
 <br>
 
 * **`How can i make suggestions?`**
-- You can make suggestions at our [Discord Server](https://discord.gg/3JuHDm8s)
+ You can make suggestions at our [Discord Server](https://discord.gg/3JuHDm8s)
 <br>
 
 * **`Is it possible to transfer WorldGuard regions to UltraRegions?`**
-- No, this is not currently possible.
+ No, this is not currently possible.
 <br>
 
 * **`Is it possible to transfer MultiVerse worlds regions to UltraRegions?`**
-- Yes it is possible, they should transfer automatically.
+ Yes it is possible, they should transfer automatically.
